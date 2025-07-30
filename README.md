@@ -5,12 +5,12 @@
 - 👯 I’m looking to collaborate on [Life in Masters](https://github.com/shivakumarpolishetty/Life-in-Masters)
 - 🤝 I’m looking for help with [Spring Boot Kafka Security Project](https://github.com/shivakumarpolishetty/springboot-kafka-security)
 - 🌱 I’m currently learning **Kafka and Microservice Architecture**
-- 💬 Ask me about **React, Vue, and GSAP**
+- 💬 Ask me about **something that  you think I know It, make sure to ask GPT before reaching me (just kidding) *
 - 📫 How to reach me: **shivakumarpolishetty123@gmail.com**
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/shivakumarpolishetty)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/shiva-kumar-30a9b2196/)
 - 📄 Know about my experiences on [LinkedIn Resume](https://www.linkedin.com/in/shiva-kumar-30a9b2196/)
-- ⚡ Fun fact: **do you think I am funny as you no!!!! I am serious at work**
+- ⚡ Fun fact: **Do you think I am as funny as you? No!!!! I am serious at work**
 
 ---
 
